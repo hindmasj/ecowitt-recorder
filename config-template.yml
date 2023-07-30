@@ -1,0 +1,10 @@
+# Config includes APP and API Keys.
+# Do not add completed config to git.
+
+hosts:
+  cloud: api.ecowitt.net
+  local: 192.168.xxx.xxx
+
+keys:
+  apiKey: xxx
+  appKey: xxx
